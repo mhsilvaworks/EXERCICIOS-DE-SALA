@@ -1,0 +1,1 @@
+Olá, seja bem vindo neste repositório eu deixo salvo toda a minha evolução em projetos dde sala de aula, caso se interesse em saber a explicação de algum ou tenha alguma sujestão entre em contato comigo adorarei te responder seja oque for. 
