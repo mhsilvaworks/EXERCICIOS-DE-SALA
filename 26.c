@@ -23,9 +23,9 @@ int main(){
     }
     
     total= s+c+r;
-    pc = c /total*100.00;
-    pr = r /total*100.00;
-    ps = s /total*100.00;
+    pc = c *100.00/total;
+    pr = r *100.00/total;
+    ps = s *100.00/total;
     printf("Total: %d cobaias\n", total);
     printf("Total de coelhos: %d\n", c);
     printf("Total de ratos: %d\n", r);
